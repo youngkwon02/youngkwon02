@@ -1,3 +1,4 @@
+![trophy](https://github-profile-trophy.vercel.app/?username=youngkwon02&title=MultiLanguage,Commit,PR&margin-w=20)
 ![Youngkwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngkwon02&border=true&border_color=777777&border_radius=9&cache_seconds=1800&theme=graywhite&show_icons=true&hide=stars)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngkwon02&layout=compact&theme=graywhite&border_color=777777&border_radius=9)](https://github.com/youngkwon02/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=youngkwon02&repo=JunctionX-MAEMO&theme=graywhite&cache_seconds=1800&border_color=c158fd&border_radius=9)](https://github.com/youngkwon02/JunctionX-MAEMO)
