@@ -4,7 +4,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoungkwon02&count_bg=%23EC4D37&title_bg=%23161B21&icon=maserati.svg&icon_color=%23F4A950&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
-🎓 Chung-Ang Univ, Computer science and software <br>
+🎓 Chung-Ang Univ, Computer Science and Software <br>
 🛫 Republic Of Korea Air Force Headquarter Web Developer <br>
 🦁 LikeLion at Chung-Ang Univ 9th <br>
 🔮 SOPT 29th <br>
