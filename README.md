@@ -4,10 +4,10 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoungkwon02&count_bg=%23EC4D37&title_bg=%23161B21&icon=maserati.svg&icon_color=%23F4A950&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
-🎓 Chung-Ang Univ, Computer Science and Software 🎓<br>
-🛫 Republic Of Korea Air Force Headquarter Web Developer 🛫<br>
-🦁 LikeLion at Chung-Ang Univ 9th 🦁<br>
-🔮 SOPT 29th 🔮<br>
+🎓 Chung-Ang Univ, Computer Science and Software🎓<br>
+🛫 Republic Of Korea Air Force Headquarter Web Developer🛫<br>
+🦁 LikeLion at Chung-Ang Univ 9th🦁<br>
+🔮 SOPT 29th🔮<br>
   
 ![Youngkwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngkwon02&border=true&border_color=89e051&border_radius=9&cache_seconds=1800&theme=radical&show_icons=true&hide=stars)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngkwon02&layout=compact&theme=radical&border_color=89e051&border_radius=9)](https://github.com/youngkwon02/github-readme-stats)
