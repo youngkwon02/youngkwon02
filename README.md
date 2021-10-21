@@ -9,10 +9,12 @@
   <span>🦁 LikeLion at Chung-Ang Univ 9th 🦁</span><br>
   <span>🔮 SOPT 29th 🔮</span><br>
 
-<div>
-  
-![Youngkwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngkwon02&border=true&border_color=89e051&border_radius=9&cache_seconds=1800&theme=radical&show_icons=true&hide=stars&count_private=true&custom_title=ʏᴏᴜɴɢᴋᴡᴏɴ'ꜱ%20ɢɪᴛʜᴜʙ%20ꜱᴛᴀᴛ)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngkwon02&layout=compact&theme=radical&border_color=89e051&border_radius=9&custom_title=ᴍᴏꜱᴛ%20ᴜꜱᴇᴅ%20ʟᴀɴɢᴜᴀɢᴇꜱ&count_private=true&hide=C,HTML,CSS)](https://github.com/youngkwon02/github-readme-stats)
+<div align="center">
+<!--  GitHub Stat  -->
+<img src="https://github-readme-stats.vercel.app/api?username=youngkwon02&border=true&border_color=89e051&border_radius=9&cache_seconds=1800&theme=radical&show_icons=true&hide=stars&count_private=true&custom_title=ʏᴏᴜɴɢᴋᴡᴏɴ'ꜱ%20ɢɪᴛʜᴜʙ%20ꜱᴛᴀᴛ" width=50%>
+
+<!--  Most Used Lang  -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngkwon02&layout=compact&theme=radical&border_color=89e051&border_radius=9&custom_title=ᴍᴏꜱᴛ%20ᴜꜱᴇᴅ%20ʟᴀɴɢᴜᴀɢᴇꜱ&count_private=true&hide=C,HTML,CSS">
   
 </div>
   
