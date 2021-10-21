@@ -11,11 +11,11 @@
 
 <div align="center">
 <!--  GitHub Stat  -->
-<img src="https://github-readme-stats.vercel.app/api?username=youngkwon02&border=true&border_color=89e051&border_radius=9&cache_seconds=1800&theme=radical&show_icons=true&hide=stars&count_private=true&custom_title=ʏᴏᴜɴɢᴋᴡᴏɴ'ꜱ%20ɢɪᴛʜᴜʙ%20ꜱᴛᴀᴛ" width=50%>
+<img src="https://github-readme-stats.vercel.app/api?username=youngkwon02&border=true&border_color=89e051&border_radius=9&cache_seconds=1800&theme=radical&show_icons=true&hide=stars&count_private=true&custom_title=ʏᴏᴜɴɢᴋᴡᴏɴ'ꜱ%20ɢɪᴛʜᴜʙ%20ꜱᴛᴀᴛ" width=59%>
 
 <!--  Most Used Lang  -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngkwon02&layout=compact&theme=radical&border_color=89e051&border_radius=9&custom_title=ᴍᴏꜱᴛ%20ᴜꜱᴇᴅ%20ʟᴀɴɢᴜᴀɢᴇꜱ&count_private=true&hide=C,HTML,CSS">
-  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngkwon02&layout=compact&theme=radical&border_color=89e051&border_radius=9&custom_title=ᴍᴏꜱᴛ%20ᴜꜱᴇᴅ%20ʟᴀɴɢᴜᴀɢᴇꜱ&count_private=true&hide=C,HTML,CSS" width=40%>
+
 </div>
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=youngkwon02&repo=JunctionX-MAEMO&theme=radical&cache_seconds=1800&border_color=89e051&border_radius=9)](https://github.com/youngkwon02/JunctionX-MAEMO)
