@@ -7,7 +7,7 @@
   <span>🎓 Chung-Ang Univ, Computer Science and Software 🎓</span><br>
   <span>🛫 Republic Of Korea Air Force Headquarter Web Developer 🛫</span><br>
   <span>🦁 LikeLion at Chung-Ang Univ 9th 🦁</span><br>
-  <span>🔮 SOPT 29th 🔮</span><br>
+  <span>🔮 SOPT 29th, Server Dev Part🔮</span><br>
 
 <div align="center">
 <!--  GitHub Stat  -->
