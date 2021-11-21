@@ -23,4 +23,10 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=youngkwon02&repo=The-Signature&theme=radical&cache_seconds=1800&border_color=89e051&border_radius=9)](https://github.com/youngkwon02/The-Signature)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LikeLion-CAU-9th&repo=DoMain&theme=radical&cache_seconds=1800&border_color=89e051&border_radius=9)](https://github.com/LikeLion-CAU-9th/DoMain)
   
+<div align=center>
+  
+  ![snake gif](https://github.com/youngkwon02/youngkwon02/blob/output/github-contribution-grid-snake.svg)
+
 </div>
+</div>
+
