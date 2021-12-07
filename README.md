@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=egg&&color=0:FF2CDF,100:0014FF&height=300&section=header&text=𝒀𝒐𝒖𝒏𝒈𝒌𝒘𝒐𝒏&fontAlignY=36&fontSize=90&desc=𝒘𝒘𝒘.𝒚𝒐𝒖𝒏𝒈𝒌𝒘𝒐𝒏.𝒔𝒊𝒕𝒆&descAlignY=60&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=egg&&color=0:FC007A,100:00E1FD&height=300&section=header&text=𝒀𝒐𝒖𝒏𝒈𝒌𝒘𝒐𝒏&fontAlignY=36&fontSize=90&desc=𝒘𝒘𝒘.𝒚𝒐𝒖𝒏𝒈𝒌𝒘𝒐𝒏.𝒔𝒊𝒕𝒆&descAlignY=60&animation=twinkling)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoungkwon02&count_bg=%232a9de1&title_bg=%23292930&icon=maserati.svg&icon_color=%2300DBFF&title=Visitor&edge_flat=false)](https://hits.seeyoufarm.com)
 
