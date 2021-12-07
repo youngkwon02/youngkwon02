@@ -2,7 +2,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=egg&&color=0:FF2CDF,100:0014FF&height=300&section=header&text=𝒀𝒐𝒖𝒏𝒈𝒌𝒘𝒐𝒏&fontAlignY=36&fontSize=90&desc=𝒘𝒘𝒘.𝒚𝒐𝒖𝒏𝒈𝒌𝒘𝒐𝒏.𝒔𝒊𝒕𝒆&descAlignY=60&animation=twinkling)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoungkwon02&count_bg=%23EC4D37&title_bg=%23161B21&icon=maserati.svg&icon_color=%23F4A950&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoungkwon02&count_bg=%230083F9&title_bg=%23292930&icon=maserati.svg&icon_color=%2300DBFF&title=Visitor&edge_flat=false)](https://hits.seeyoufarm.com)
 
   <span>🎓&nbsp;&nbsp;**𝐂𝐡𝐮𝐧𝐠-𝐀𝐧𝐠 𝐔𝐧𝐢𝐯, 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐚𝐧𝐝 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞** 🎓</span><br>
   <span>🛫&nbsp;&nbsp;**𝐑𝐞𝐩𝐮𝐛𝐥𝐢𝐜 𝐎𝐟 𝐊𝐨𝐫𝐞𝐚 𝐀𝐢𝐫 𝐅𝐨𝐫𝐜𝐞 𝐇𝐞𝐚𝐝𝐪𝐮𝐚𝐫𝐭𝐞𝐫 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫** 🛫</span><br>
