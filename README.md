@@ -20,13 +20,10 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=youngkwon02&repo=JunctionX-MAEMO&theme=radical&cache_seconds=1800&border_color=00DBFF&border_radius=9)](https://github.com/youngkwon02/JunctionX-MAEMO)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=youngkwon02&repo=Algorithm-PS&theme=radical&cache_seconds=1800&border_color=00DBFF&border_radius=9)](https://github.com/youngkwon02/Algorithm-PS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=youngkwon02&repo=CampusRun-node-server&theme=radical&cache_seconds=1800&border_color=00DBFF&border_radius=9)](https://github.com/youngkwon02/CampusRun-node-server)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=youngkwon02&repo=CampusRun-django-server&theme=radical&cache_seconds=1800&border_color=00DBFF&border_radius=9)](https://github.com/youngkwon02/CampusRun-django-server)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=youngkwon02&repo=The-Signature&theme=radical&cache_seconds=1800&border_color=00DBFF&border_radius=9)](https://github.com/youngkwon02/The-Signature)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LikeLion-CAU-9th&repo=DoMain&theme=radical&cache_seconds=1800&border_color=00DBFF&border_radius=9)](https://github.com/LikeLion-CAU-9th/DoMain)
   
-<div align=center>
-  
-  ![snake gif](https://github.com/youngkwon02/youngkwon02/blob/output/github-contribution-grid-snake.svg)
-
-</div>
 </div>
 
