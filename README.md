@@ -16,7 +16,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=youngkwon02&border=true&border_color=FC007A&border_radius=9&cache_seconds=1800&theme=radical&show_icons=true&hide=stars&count_private=true&custom_title=ʏᴏᴜɴɢᴋᴡᴏɴ'ꜱ%20ɢɪᴛʜᴜʙ%20ꜱᴛᴀᴛ" width=59%>
 
 <!--  Most Used Lang  -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngkwon02&layout=compact&theme=radical&border_color=FC007A&border_radius=9&custom_title=ᴍᴏꜱᴛ%20ᴜꜱᴇᴅ%20ʟᴀɴɢᴜᴀɢᴇꜱ&count_private=true&hide=C,HTML,CSS,Assembly,Makefile,Batchfile,Perl,TeX&langs_count=5" width=40%>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngkwon02&layout=compact&theme=radical&border_color=FC007A&border_radius=9&custom_title=ᴍᴏꜱᴛ%20ᴜꜱᴇᴅ%20ʟᴀɴɢᴜᴀɢᴇꜱ&count_private=true&hide=C,HTML,CSS,Assembly,Makefile,Batchfile,Perl,TeX,python,shell,php,c%2B%2B&langs_count=1" width=40%>
 
 </div>
 
