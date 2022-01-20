@@ -20,7 +20,7 @@
 
 </div>
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TeamSparker&repo=Spark-Server&theme=radical&cache_seconds=1800&border_color=00DBFF&border_radius=9)](https://github.com/TeamSparker/Spark-Server)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TeamSparker&repo=Spark-Server&theme=radical&cache_seconds=1800&border_color=00DBFF&border_radius=9&show_owner=true)](https://github.com/TeamSparker/Spark-Server)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=youngkwon02&repo=JunctionX-MAEMO&theme=radical&cache_seconds=1800&border_color=00DBFF&border_radius=9)](https://github.com/youngkwon02/JunctionX-MAEMO)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=youngkwon02&repo=The-Signature&theme=radical&cache_seconds=1800&border_color=00DBFF&border_radius=9)](https://github.com/youngkwon02/The-Signature)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=youngkwon02&repo=Algorithm-PS&theme=radical&cache_seconds=1800&border_color=00DBFF&border_radius=9)](https://github.com/youngkwon02/Algorithm-PS)
