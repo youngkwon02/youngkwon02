@@ -29,7 +29,7 @@
 
 <div align="center">
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=youngkwon02&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=0DD6DD&ring=DD1BB6&sideNums=DD2727&currStreakNum=54DDDB)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=youngkwon02&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=0DD6DD&ring=DD1BB6&sideNums=DD2727&currStreakNum=54DDDB)](http:youngkwon.site/youngkwon)
   
 </div>
   
