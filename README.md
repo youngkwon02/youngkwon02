@@ -7,7 +7,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoungkwon02&count_bg=%23E9388E&title_bg=%23181818&icon=maserati.svg&icon_color=%2300DBFF&title=Visitor&edge_flat=false)](http://youngkwon.site)
   
   <span>🎓&nbsp;**Chung-Ang University, Computer Science and Engineering** 🎓</span><br>
-  <span>🎖&nbsp;**Republic Of Korea Air Force Headquarter Web Developer**🎖</span><br>
+  <span>🎖&nbsp;**Republic Of Korea Air Force Headquarter Web & Server Developer**🎖</span><br>
   <span>🦁&nbsp;**LikeLion at Chung-Ang Univ, 9th and 10th Executive** 🦁</span><br>
   <span>🔮&nbsp;**WE-SOPT 29th, Server Development Part** 🔮</span><br>
 
