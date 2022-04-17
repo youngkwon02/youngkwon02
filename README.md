@@ -8,9 +8,9 @@
   
   <span>🎓&nbsp;**Chung-Ang University, Computer Science and Engineering** 🎓</span><br>
   <span>🎖&nbsp;**Republic Of Korea Air Force Headquarter Web & Server Developer**🎖</span><br>
-  <span>🦁&nbsp;**LikeLion at Chung-Ang Univ, 9th and 10th Executive** 🦁</span><br>
-  <span>🔮&nbsp;**WE-SOPT 29th, Server Development Part** 🔮</span><br>
-  <span>🦋&nbsp;**SOFTWARE MAESTRO 13th** 🦋</span><br>
+  <span>🦁&nbsp;**LikeLion at Chung-Ang Univ, 9th and 10th Executive**🦁</span><br>
+  <span>🔮&nbsp;**WE-SOPT 29th, Server Development Part**🔮</span><br>
+  <span>🦋&nbsp;**SOFTWARE MAESTRO 13th**🦋</span><br>
 
 <div align="center">
 <!--  GitHub Stat  -->
