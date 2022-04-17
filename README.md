@@ -30,7 +30,7 @@
 
 <div align="center">
   
-![RANK](https://api.opgc.me/githubs/users/youngkwon02/tag/?theme=prism)
+[<img src="https://api.opgc.me/githubs/users/youngkwon02/tag/?theme=prism">](http://youngkwon.site/youngkwon)
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=youngkwon02&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=0DD6DD&ring=DD1BB6&sideNums=DD2727&currStreakNum=54DDDB)](http:youngkwon.site/youngkwon)
   
