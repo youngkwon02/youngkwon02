@@ -30,7 +30,7 @@
 
 <div align="center">
   
-[<img src="https://api.opgc.me/githubs/users/youngkwon02/tag/?theme=dracula">](http://youngkwon.site/youngkwon)
+[![trophy](https://github-profile-trophy.vercel.app/?username=youngkwon02&theme=onedark&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img src="http://github-readme-streak-stats.herokuapp.com?user=youngkwon02&theme=black-ice&date_format=M%20j%5B%2C%20Y%5D&ring=e05397&fire=e05397" alt="youngkwon02" />
   
