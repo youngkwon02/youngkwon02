@@ -18,8 +18,8 @@
 </div>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TeamSparker&repo=Spark-Server&theme=radical&cache_seconds=1800&border_color=00DBFF&border_radius=9&show_owner=true)](https://github.com/TeamSparker/Spark-Server)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=30th-SOPKATHON-8&repo=Sopkathon-Server&theme=radical&cache_seconds=1800&border_color=00DBFF&border_radius=9&show_owner=true)](https://github.com/30th-SOPKATHON-8/Sopkathon-Server)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TEAM-README&repo=Readme-Server&theme=radical&cache_seconds=1800&border_color=00DBFF&border_radius=9&show_owner=true)](https://github.com/TEAM-README/Readme-Server)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=youngkwon02&repo=The-Signature&theme=radical&cache_seconds=1800&border_color=00DBFF&border_radius=9&show_owner=true)](https://github.com/youngkwon02/The-Signature)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ME-EW&repo=MEEW-Server&theme=radical&cache_seconds=1800&border_color=00DBFF&border_radius=9&show_owner=true)](https://github.com/ME-EW/MEEW-Server)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=youngkwon02&repo=CampusRun-Node-Server&theme=radical&cache_seconds=1800&border_color=00DBFF&border_radius=9&show_owner=true)](https://github.com/youngkwon02/CampusRun-Node-Server)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=youngkwon02&repo=CampusRun-Django-Server&theme=radical&cache_seconds=1800&border_color=00DBFF&border_radius=9&show_owner=true)](https://github.com/youngkwon02/CampusRun-Django-Server)
