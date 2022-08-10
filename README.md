@@ -4,23 +4,23 @@
 > I'm currently majoring in Computer Science at Chung-Ang University. <br>
 > Interested in backend development solving problems from different perspectives.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://youngkwon.co.kr)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:its.youngkwon@gmail.com)
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" witdh="90" height="30" />](https://youngkwon.co.kr)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="86" height="30" />](mailto:its.youngkwon@gmail.com)
 
 ### Project
 | Service | Description | Group | Link |
 |:---:|:---:|:---:|:---:|
-| Spark | 친구와 함께하는 66일간의 습관 형성 서비스 | SOPT 29기 AppJam | [Team Sparker](https://github.com/TeamSparker) / [App Store](https://apps.apple.com/kr/app/spark-%EC%8A%A4%ED%8C%8C%ED%81%AC-%EC%B9%9C%EA%B5%AC%EC%99%80-%EC%8A%B5%EA%B4%80-%EA%B4%80%EB%A6%AC/id1605811861) / [Play Store](https://play.google.com/store/apps/details?id=com.teamsparker.android) |
-| Black Eagles | 대한민국 공군 특수비행팀 블랙이글스 공식 홈페이지 | 대한민국 공군 | [Web Link](https://rokaf.airforce.mil.kr/blackeagles/index.do) |
+| Spark | 친구와 함께하는 66일간의 습관 형성 서비스 | SOPT 29기 AppJam | [Team Sparker](https://github.com/TeamSparker) <br> [App Store](https://apps.apple.com/kr/app/spark-%EC%8A%A4%ED%8C%8C%ED%81%AC-%EC%B9%9C%EA%B5%AC%EC%99%80-%EC%8A%B5%EA%B4%80-%EA%B4%80%EB%A6%AC/id1605811861) / [Play Store](https://play.google.com/store/apps/details?id=com.teamsparker.android) |
+| Black Eagles | 공군 특수비행팀 블랙이글스 공식 홈페이지 | 대한민국 공군 | [Web Link](https://rokaf.airforce.mil.kr/blackeagles/index.do) |
 | 대한민국 공군 (ROKAF) | 대한민국 공군본부 공식 홈페이지 | 대한민국 공군 | [Web Link](https://rokaf.airforce.mil.kr/airforce/index.do) |
 | 캠퍼스런 | 대학교 캠퍼스 배경 3D 레이싱 게임 | 중앙대학교 | [Team 캠퍼스런](https://github.com/Campus-Run) |
-| ME:EW | 서로를 이해하기 위한 가장 좋은방법, 너로 살아보기 ! | SOPT 29기 솝커톤 | [MEEW-Server](https://github.com/ME-EW/MEEW-Server) |
+| ME:EW | 서로를 이해하기 위한 가장 좋은방법, MEEW ! | SOPT 29기 솝커톤 | [MEEW-Server](https://github.com/ME-EW/MEEW-Server) |
 | READ ME | 우리들의 독서기록 서비스 | SOPT 30기 솝텀 | [README-Server](https://github.com/TEAM-README/Readme-Server) |
-| 오시내시 | 좋은 감정과 나쁜 감정 모두를 기록하는 감정 가계부 | SOPT 30기 솝커톤 | [오시내시-Server](https://github.com/30th-SOPKATHON-8/Sopkathon-Server) |
+| 오시내시 | 좋은 감정, 나쁜 감정 모두 기록하는 감정 가계부 | SOPT 30기 솝커톤 | [오시내시-Server](https://github.com/30th-SOPKATHON-8/Sopkathon-Server) |
 | My BF (Barrier-Free) | 교통약자를 위한 교통 예약 및 트래킹 서비스 | Junction X Seoul | [Team MAEMO](https://github.com/youngkwon02/JunctionX-MAEMO) |
 | The Signature | 머신러닝을 활용한 서명 제작 서비스 | 중앙대학교 | [The Signature](https://github.com/youngkwon02/The-Signature) |
-| 공군 복지시설 예약체계 | 일반인과 군인 모두 이용하는 복지시설 예약 서비스 | 대한민국 공군 | [Web Link](https://welfare.airforce.mil.kr:446/mbshome/mbs/welfare/index.do) |
-| 지능형 스마트 비행단 | 대한민국 공군 지능형 스마트 비행단 공식 홈페이지 | 대한민국 공군 | [Web Link](https://rokaf.airforce.mil.kr/sites/smartwing/index.do) |
+| 공군 복지시설 예약체계 | 일반인과 군인 모두 이용하는 복지시설 예약체계 | 대한민국 공군 | [Web Link](https://welfare.airforce.mil.kr:446/mbshome/mbs/welfare/index.do) |
+| 지능형 스마트 비행단 | 공군 지능형 스마트 비행단 공식 홈페이지 | 대한민국 공군 | [Web Link](https://rokaf.airforce.mil.kr/sites/smartwing/index.do) |
 | 모의자 | 모두의 의견을 자유롭게, 모의자! | 중앙대학교 멋사 | [Youtube](https://youtu.be/3K2CKHKzg3g) | 
 | DO MAIN | 개인에게 최적화된 웹 브라우저 메인 화면 | 중앙대학교 멋사 | [Demo Video](https://www.instagram.com/tv/CSlSn8oF1_-/?utm_source=ig_web_copy_link) | 
 
