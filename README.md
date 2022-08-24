@@ -55,7 +55,7 @@
 
 <br>
 
-### Card
+### Cards
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=youngkwon02&theme=chalk&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
