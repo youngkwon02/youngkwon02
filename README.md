@@ -7,7 +7,7 @@
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" witdh="90" height="30" />](https://youngkwon.co.kr)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="86" height="30" />](mailto:its.youngkwon@gmail.com)
 
-### Project
+### Team Project
 | Service | Description | Group | Link |
 |:---:|:---:|:---:|:---:|
 | Spark | 친구와 함께하는 66일간의 습관 형성 서비스 | SOPT 29기 AppJam | [Team Sparker](https://github.com/TeamSparker) <br> [App Store](https://apps.apple.com/kr/app/spark-%EC%8A%A4%ED%8C%8C%ED%81%AC-%EC%B9%9C%EA%B5%AC%EC%99%80-%EC%8A%B5%EA%B4%80-%EA%B4%80%EB%A6%AC/id1605811861) / [Play Store](https://play.google.com/store/apps/details?id=com.teamsparker.android) |
@@ -55,7 +55,7 @@
 
 <br>
 
-### Cards
+### Card
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=youngkwon02&theme=chalk&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
