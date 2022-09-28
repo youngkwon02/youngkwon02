@@ -7,7 +7,7 @@
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" witdh="90" height="30" />](https://youngkwon.co.kr)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="86" height="30" />](mailto:its.youngkwon@gmail.com)
 
-### Team Project
+## Team Project
 | Service | Description | Group | Link |
 |:---:|:---:|:---:|:---:|
 | Spark | 친구와 함께하는 66일간의 습관 형성 서비스 | SOPT 29기 AppJam | [Team Sparker](https://github.com/TeamSparker) <br> [App Store](https://apps.apple.com/kr/app/spark-%EC%8A%A4%ED%8C%8C%ED%81%AC-%EC%B9%9C%EA%B5%AC%EC%99%80-%EC%8A%B5%EA%B4%80-%EA%B4%80%EB%A6%AC/id1605811861) / [Play Store](https://play.google.com/store/apps/details?id=com.teamsparker.android) |
@@ -26,23 +26,23 @@
 | 모의자 | 모두의 의견을 자유롭게, 모의자! | 중앙대학교 멋사 | [Youtube](https://youtu.be/3K2CKHKzg3g) | 
 | DO MAIN | 개인에게 최적화된 웹 브라우저 메인 화면 | 중앙대학교 멋사 | [Demo Video](https://www.instagram.com/tv/CSlSn8oF1_-/?utm_source=ig_web_copy_link) | 
 
-### Experience
-#### - 2022
-- Software Maestro 13th Regular Course (2022.06 ~ )
-- Software Maestro 13th Preparatory Course (2022.04 ~ 2022.05)
-- LikeLion at Chung-Ang University 10th Executive (2021.12 ~ 2022.05)
-- Michigan State University, Global Entrepreneurship and Innovation Course (2022.01)
-#### - 2021
-- SOPT 29th, WE-SOPT Server Development Part (2021.09 ~ 2022.01)
-- LikeLion at Chung-Ang University 9th (2021.03 ~ 2021.12)
-#### - 2019
-- Republic Of Korea Air Force Headquarter Web and Server Developer (2019.03 ~ 2021.01)
-#### - 2017
-- Chung-Ang University, Computer Science and Engineering (2017.03 ~ 2023.02)
-  - GPA (overall) 3.97 / 4.5 
-  - GPA (major) &nbsp;4.16 / 4.5 
+## Experience
+### - 2022
+- **Software Maestro 13th Regular Course (2022.06 ~ )**
+- **Software Maestro 13th Preparatory Course (2022.04 ~ 2022.05)**
+- **LikeLion at Chung-Ang University 10th Executive (2021.12 ~ 2022.05)**
+- **Michigan State University, Global Entrepreneurship and Innovation Course (2022.01)**
+### - 2021
+- **SOPT 29th, WE-SOPT Server Development Part (2021.09 ~ 2022.01)**
+- **LikeLion at Chung-Ang University 9th (2021.03 ~ 2021.12)**
+### - 2019
+- **Republic Of Korea Air Force Headquarter Web and Server Developer (2019.03 ~ 2021.01)**
+### - 2017
+- **Chung-Ang University, Computer Science and Engineering (2017.03 ~ 2023.02)**
+  - **GPA (overall) 3.97 / 4.5**
+  - **GPA (major) &nbsp;4.16 / 4.5**
 
-### Interest
+## Interest
 
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" width="100" height="25" /> <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" width="100" height="25" /> <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" width="60" height="25" /> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" width="80" height="25" /> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" width="65" height="25" />
 
@@ -56,7 +56,7 @@
 
 <br>
 
-### Card
+## Card
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=youngkwon02&theme=chalk&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
