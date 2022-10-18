@@ -40,8 +40,8 @@
 - **Republic Of Korea Air Force Headquarter Web and Server Developer (2019.03 ~ 2021.01)**
 ### - 2017
 - **Chung-Ang University, Computer Science and Engineering (2017.03 ~ 2023.02)**
-  - **GPA (overall) 3.97 / 4.5**
-  - **GPA (major) &nbsp;4.16 / 4.5**
+  - **GPA : 3.97 / 4.5**
+  - **GPA (major) : 4.16 / 4.5**
 
 ## Interest
 
