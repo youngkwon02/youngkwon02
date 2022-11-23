@@ -29,7 +29,7 @@
 
 ## Experience
 ### - 2022
-- **Software Maestro 13th Regular Course (2022.06 ~ )**
+- **Software Maestro 13th Regular Course (2022.06 ~ 2022.12)**
 - **Software Maestro 13th Preparatory Course (2022.04 ~ 2022.05)**
 - **LikeLion at Chung-Ang University 10th Executive (2021.12 ~ 2022.05)**
 - **Michigan State University, Global Entrepreneurship and Innovation Course (2022.01)**
