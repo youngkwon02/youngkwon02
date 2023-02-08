@@ -1,7 +1,7 @@
 ## 김영권 | Youngkwon Kim
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoungkwon02&count_bg=%23E9388E&title_bg=%23181818&icon=maserati.svg&icon_color=%2300DBFF&title=hits&edge_flat=false)
 > Hello, I'm Youngkwon Kim. <br>
-> I'm currently majoring in Computer Science at Chung-Ang University. <br>
+> I majored in Computer Science at Chung-Ang University. <br>
 > Interested in backend development solving problems from different perspectives.
 
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" witdh="90" height="30" />](https://youngkwon.co.kr)
