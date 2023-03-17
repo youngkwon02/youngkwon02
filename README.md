@@ -26,7 +26,7 @@
 | 지능형 스마트 비행단 | 공군 지능형 스마트 비행단 공식 홈페이지 | 대한민국 공군 | [Web Link](https://rokaf.airforce.mil.kr/sites/smartwing/index.do) |
 | Measure-Shrimps | 양식새우 모니터링 및 개체 크기 측정 | 개인 프로젝트 | [GitHub-Repo](https://github.com/youngkwon02/Detect-and-Measure-Shrimps) | 
 | 모의자 | 모두의 의견을 자유롭게, 모의자! | 중앙대학교 | [Youtube](https://youtu.be/3K2CKHKzg3g) | 
-| DO MAIN | 개인에게 최적화된 웹 브라우저 메인 화면 | 중앙대학교 | [Demo Video](https://www.instagram.com/tv/CSlSn8oF1_-/?utm_source=ig_web_copy_link) | 
+| DO MAIN | 개인에게 최적화된 웹 브라우저 | 중앙대학교 | [Demo Video](https://www.instagram.com/tv/CSlSn8oF1_-/?utm_source=ig_web_copy_link) | 
 
 ## Experience
 ### - 2022
