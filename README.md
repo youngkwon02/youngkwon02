@@ -17,7 +17,7 @@
 | LinkLip (링클립) | 효율적인 정보 관리를 위한 최고의 수단! | SW 마에스트로 | [LinkLip-Server](https://github.com/SoftwareMaestro-LinkLip/LinkLip-Server) |
 | 캠퍼스런 | 대학교 캠퍼스 배경 3D 레이싱 게임 | 중앙대학교 | [Team 캠퍼스런](https://github.com/Campus-Run) |
 | ME:EW | 서로를 이해하기 위한 가장 좋은방법, MEEW ! | SOPT | [MEEW-Server](https://github.com/ME-EW/MEEW-Server) |
-| READ ME | 우리들의 독서기록 서비스 | SOPT 30기 솝텀 | [README-Server](https://github.com/TEAM-README/Readme-Server) |
+| READ ME | 우리들의 독서기록 서비스 | SOPT 30기 | [README-Server](https://github.com/TEAM-README/Readme-Server) |
 | 오시내시 | 좋은 감정, 나쁜 감정 모두 기록하는 감정 가계부 | SOPT 30기 | [오시내시-Server](https://github.com/30th-SOPKATHON-8/Sopkathon-Server) 
 | GitHub Tracker | GitHub Following & Follower Tracker | 개인 프로젝트 | [GitHub-Repo](https://github.com/youngkwon02/github-following-tracker) 
 | My BF (Barrier-Free) | 교통약자를 위한 교통 예약 및 트래킹 서비스 | Junction X Seoul | [Team MAEMO](https://github.com/youngkwon02/JunctionX-MAEMO) |
