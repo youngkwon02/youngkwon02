@@ -30,7 +30,8 @@
 
 ## Experience
 ### - 2023
-- **HYUNDAI MOBIS, Connected Car Service Research Engineer**
+- **HYUNDAI MOBIS Central Communication Unit AP SW, <br>
+Connected Car Service Research Engineer**
 ### - 2022
 - **Software Maestro 13th Regular Course (2022.06 ~ 2022.12)**
 - **Software Maestro 13th Preparatory Course (2022.04 ~ 2022.05)**
