@@ -5,7 +5,7 @@
 > Interested in backend development solving problems from different perspectives. <br>
 > Now, I am researching about Mobility Technology for Tomorrow!
 
-[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" witdh="90" height="30" />](https://youngkwon.co.kr)
+<!-- [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" witdh="90" height="30" />](https://youngkwon.co.kr) -->
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="86" height="30" />](mailto:its.youngkwon@gmail.com)
 
 ## Project
